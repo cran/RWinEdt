@@ -58,9 +58,7 @@ Installation:
 
   a) Installation as an R package:
 
-    - Install this archive (RWinEdt_.....zip)
-      The R GUI can be used: "Packages" -> "Install package(s) from local zip files..."
-      or simply type "install.packages('RWinEdt')"
+    - Simply use install.packages("RWinEdt") with your favourite CRAN mirror.
 
     - RGui in MDI mode is *not* supported for non-english translations of RGui.
       It is recommended to use R in SDI mode which can be set in the command line 

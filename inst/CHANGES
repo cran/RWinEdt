@@ -1,3 +1,8 @@
+Changes in RWinEdt_1.7-5:
+-------------------------
+- ismdi() symbol fix for R >= 2.4.0
+
+
 Changes in RWinEdt_1.7-3:
 -------------------------
 - Desktop and StartMenu icons can be created using automatically 

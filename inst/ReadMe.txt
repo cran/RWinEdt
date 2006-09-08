@@ -1,5 +1,5 @@
 ==========================================================================================
-Using WinEdt as an editor for R         *** R-WinEdt 1.7-3 ***                  19.05.2005
+Using WinEdt as an editor for R         *** R-WinEdt 1.7-5 ***                  08.09.2006
 ==========================================================================================
 
 Overview:
@@ -49,7 +49,7 @@ Features:
 Installation:
 -------------
 
-  - Install R (rw2010 or later)
+  - Install R (R-2.4.0 or later)
 
   - Install WinEdt 5 (V. 5.2, Build: 20001213 or later)
     Note: WinEdt is Shareware (http://www.winedt.com).

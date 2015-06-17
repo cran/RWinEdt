@@ -1,7 +1,7 @@
 Package: RWinEdt
 Title: R Interface to WinEdt
-Version: 2.0-3
-Date: 2015-05-31
+Version: 2.0-4
+Date: 2015-06-17
 Author: Uwe Ligges <Uwe.Ligges@R-project.org>
     with contributions (the original R-Sweave mode) from Gilbert Ritschard and Karl Koeller 
 Description: A plug in for using WinEdt as an editor for R.
@@ -12,7 +12,7 @@ OS_type: windows
 LazyLoad: true
 URL: http://www.winedt.com/, http://www.winedt.org/
 License: GPL-2
-Packaged: 2015-05-31 15:33:57 UTC; ligges
 NeedsCompilation: yes
+Packaged: 2015-06-17 21:36:34 UTC; ligges
 Repository: CRAN
-Date/Publication: 2015-05-31 17:35:57
+Date/Publication: 2015-06-17 23:54:49

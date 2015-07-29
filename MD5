@@ -1,5 +1,5 @@
-eb1d4ae330e1dae4078111ae437bfde0 *DESCRIPTION
-c9f0cd727bbd839b638c69cde86e9016 *NAMESPACE
+a7b1b926a8e73dbc1229feaaa2a14004 *DESCRIPTION
+58e4ca1bb6fd939b5cda434f31d8dabc *NAMESPACE
 b7306aeb6f99bd8c6b81dbac0aadfc0e *R/createIcon.R
 0312f8efcb0b1db982f4cac3af596b76 *R/getWinEdt.R
 f6c066c246d770f98f138945675f5890 *R/installWinEdt.R
@@ -80,10 +80,10 @@ ad7ea570daa27f3fab07cb7ef364608f *inst/PlugIn6/R-sweave.bmp
 783d989e5ec005a1e250f12b9bec47fc *inst/PlugIn6/R_source.png
 a8231486539c141aae2f4e3f7074764b *inst/ReadMe.txt
 f6f62adff23b8daf286c2c1c04b620b0 *inst/doc/RWinEdt.Rnw
-4dc463b7949bcd96fd8d8d916623a07f *inst/doc/RWinEdt.pdf
+aec76b43207174b907de34e5d36fe3b2 *inst/doc/RWinEdt.pdf
 189cf67cdbb9fc17360e7f4b94683ce5 *man/WinEdt.Rd
 ad45fbac540e4480e977bcbd91a110da *man/ismdi.Rd
-8d26545ae32cc4a41731298d1dc4313f *src/Makevars.win
+e8bda234ff58b3630b809e4a62453713 *src/Makevars.win
 c0c47e62aacfe5ede28662d0b3a85b40 *src/ismdi.c
 9ede7ea9fca3e0fc9ce84b82cdfb5dab *vignettes/RW-LaTeX.png
 d7287777d4390ab58442c3ce8f01086f *vignettes/RW-R.png

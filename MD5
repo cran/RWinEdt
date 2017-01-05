@@ -1,4 +1,4 @@
-a7b1b926a8e73dbc1229feaaa2a14004 *DESCRIPTION
+216f583a207758430194689e6384251f *DESCRIPTION
 58e4ca1bb6fd939b5cda434f31d8dabc *NAMESPACE
 b7306aeb6f99bd8c6b81dbac0aadfc0e *R/createIcon.R
 0312f8efcb0b1db982f4cac3af596b76 *R/getWinEdt.R
@@ -6,7 +6,7 @@ f6c066c246d770f98f138945675f5890 *R/installWinEdt.R
 e55b5f225a0dc82a470185d59c74b882 *R/ismdi.R
 fb3dc6593a8c98409d3367b3f4ce25e0 *R/startWinEdt.R
 f72ffe60d1de5a423beff9f2cd9c7301 *R/zzz.R
-081b8f33696898f9e854823db454ffd1 *inst/CHANGES
+e562de7ae5486e4b4c5881947ec18c85 *inst/CHANGES
 5a3d9c96f89b3fc60bb31a3e8d284d9e *inst/CITATION
 9cc452501fd8c21533e57db6a42aec78 *inst/PlugIn/Filetypes.edt
 7aa16baae7ad9bc2fba960f886260cf4 *inst/PlugIn/FilterSets.ini
@@ -79,14 +79,14 @@ ad7ea570daa27f3fab07cb7ef364608f *inst/PlugIn6/R-sweave.bmp
 10bdc06106ebda1cc28e9b89de5e1079 *inst/PlugIn6/R_script.png
 783d989e5ec005a1e250f12b9bec47fc *inst/PlugIn6/R_source.png
 a8231486539c141aae2f4e3f7074764b *inst/ReadMe.txt
-f6f62adff23b8daf286c2c1c04b620b0 *inst/doc/RWinEdt.Rnw
-aec76b43207174b907de34e5d36fe3b2 *inst/doc/RWinEdt.pdf
+3a63c9fc33fedb62a170c725c12945c0 *inst/doc/RWinEdt.Rnw
+beab7f9cb0d27e8fb4ea18157c117b62 *inst/doc/RWinEdt.pdf
 189cf67cdbb9fc17360e7f4b94683ce5 *man/WinEdt.Rd
 ad45fbac540e4480e977bcbd91a110da *man/ismdi.Rd
-e8bda234ff58b3630b809e4a62453713 *src/Makevars.win
+8d26545ae32cc4a41731298d1dc4313f *src/Makevars.win
 c0c47e62aacfe5ede28662d0b3a85b40 *src/ismdi.c
 9ede7ea9fca3e0fc9ce84b82cdfb5dab *vignettes/RW-LaTeX.png
 d7287777d4390ab58442c3ce8f01086f *vignettes/RW-R.png
 857d2938a27c742c00f734488cc18cab *vignettes/RW-highlight.png
-f6f62adff23b8daf286c2c1c04b620b0 *vignettes/RWinEdt.Rnw
-db9511ff8e7955f0e4e0d4fd58104e03 *vignettes/RWinEdt.pdf
+3a63c9fc33fedb62a170c725c12945c0 *vignettes/RWinEdt.Rnw
+beab7f9cb0d27e8fb4ea18157c117b62 *vignettes/RWinEdt.pdf
